@@ -1,0 +1,4 @@
+Flask==3.1.1          # 13 mai 2025 :contentReference[oaicite:0]{index=0}
+APScheduler==3.11.0   # 24 novembre 2024 :contentReference[oaicite:1]{index=1}
+requests==2.32.4      # 9 juin 2025 :contentReference[oaicite:2]{index=2}
+python-dotenv==1.1.1  # 24 juin 2025 :contentReference[oaicite:3]{index=3}
